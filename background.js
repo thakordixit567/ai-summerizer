@@ -1,3 +1,5 @@
 chrome.runtime.onInstalled.addListner(()=> {
-    chrome.storage
+    chrome.storage.sync.get(["geminiApiKey"],(result)=>{
+        if()
+    })
 })
