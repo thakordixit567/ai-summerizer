@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # 🧠 AI Summarizer - Chrome Extension (SummaMind (AI-powered summaries))
 
-
+![AI Summarizer Extension](https://raw.githubusercontent.com/thakordixit567/ai-summerizer/refs/heads/master/Screenshot%202025-09-01%20131934.png)
 
 
 AI Summarizer is a lightweight Chrome extension that helps you quickly summarize articles, blogs, or any web content using AI.  
