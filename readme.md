@@ -1,5 +1,5 @@
 # 🧠 AI Summarizer - Chrome Extension
-
+https://raw.githubusercontent.com/thakordixit567/ai-summerizer/refs/heads/master/Screenshot%202025-09-01%20131934.png
 AI Summarizer is a lightweight Chrome extension that helps you quickly summarize articles, blogs, or any web content using AI.  
 No more endless scrolling—get the key points in seconds!
 
